@@ -1,0 +1,39 @@
+@charset "UTF-8";
+.signup{
+margin=0;
+padding=0;
+}
+.head{
+font-size:30px;
+font-family:幼圆;
+color:#546E7A;
+}
+.txt{
+font-family:微软雅黑;
+}
+.btnstyle{
+width:320px;
+height:40px;
+background-color:#546E7A;
+border:0;
+color:white;
+}
+form{
+height:500px; 
+width:450px; 
+border:1px solid #000000;
+margin:0 auto;
+background-color:#FFFFFF;
+}
+body{
+background-color:#ECEFF1;
+}
+.input{
+background-color:#E8F0FE;
+width:250px;
+height:30px;
+}
+.ntxt{
+color:#ECEFF1;
+font-family:微软雅黑;
+}
